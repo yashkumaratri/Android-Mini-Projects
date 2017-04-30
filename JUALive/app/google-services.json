@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "556707770834",
+    "firebase_url": "https://jualive-46a3f.firebaseio.com",
+    "project_id": "jualive-46a3f",
+    "storage_bucket": "jualive-46a3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556707770834:android:4629192e885e3eb1",
+        "android_client_info": {
+          "package_name": "com.production.vny.jualive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556707770834-b9def44mnhtihlpii5u7g4l64a47tjf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.production.vny.jualive",
+            "certificate_hash": "FC4CCE8A11F1E1F1081ABEBE192422AD4A9C760C"
+          }
+        },
+        {
+          "client_id": "556707770834-kmi7ug0u7d9hpr93egenivgp0bglenpq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Q1B-EzUXBmDtu9M_4N7Zzh4CfmURqVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556707770834-kmi7ug0u7d9hpr93egenivgp0bglenpq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
